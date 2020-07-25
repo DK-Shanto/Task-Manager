@@ -1,4 +1,4 @@
-**Description**
+**Description:**
 
 
 Task Manager is a small but helpful application where you can create and manage tasks to make your life easier. In this web application you will get option to create lists and in list you can add tasks with dates. There is a option where you can mark completed task that can help you find unfinished tasks. You can also edit tasks. You just need to register and then login to add lists and tasks.
